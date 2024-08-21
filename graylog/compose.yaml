@@ -1,0 +1,7 @@
+packages:
+  - pkg: graylog
+    name: eyberg/graylog:5.2.6
+    arch: amd64
+  - pkg: mongo
+    name: eyberg/mongodb:7.0.8
+    arch: amd64
