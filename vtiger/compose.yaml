@@ -1,0 +1,8 @@
+packages:
+  - pkg: vtiger
+    name: eyberg/vtiger:0.0.1
+    arch: amd64
+  - pkg: mysql
+    name: eyberg/mysql:5.7.29
+    arch: amd64
+    base_volume_sz: 1g
