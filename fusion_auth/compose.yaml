@@ -1,0 +1,8 @@
+packages:
+  - pkg: postgres
+    name: francescolavra/postgres:16.2
+    arch: amd64
+    base_volume_sz: 200m
+  - pkg: fusionauth
+    name: eyberg/fusionauth:1.53.3
+    arch: amd64
